@@ -112,7 +112,7 @@ $doc.display('additionalAuthors')
 
 = $services.localization.render('rfc.abstractSection')
 
-$escapetool.xml($doc.displayPrettyName('abstract', false, false))
+$doc.display('abstract')
 
 ----
 
