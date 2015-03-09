@@ -347,7 +347,7 @@
     <property>
       <parameters>label=RFC
 target=RFC.WebHome
-icon=icon:application</parameters>
+icon=icon:book</parameters>
     </property>
     <property>
       <scope>wiki</scope>
